@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/jhonny/UPeUEventoH/web/Error/error.jsp</file>
+            <file>file:/D:/jhonny/UPeUEventoH/web/modulos/usuario/mainUsuario.jsp</file>
+            <file>file:/D:/jhonny/UPeUEventoH/web/META-INF/context.xml</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/pe/edu/upeu/dao/UsuarioDaoInterface.java</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/pe/edu/upeu/dao/PeriodoDaoInterface.java</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/pe/edu/upeu/modelo/CpAsistencia.java</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/hibernate.cfg.xml</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/pe/edu/upeu/controlador/UsuarioControl.java</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/pe/edu/upeu/modelo/CpPeriodo.java</file>
+            <file>file:/D:/jhonny/UPeUEventoH/web/modulos/usuario/formUsuario.jsp</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/syscenterlife.properties</file>
+            <file>file:/D:/jhonny/UPeUEventoH/web/modulos/usuario/formUsuarioEdit.jsp</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/pe/edu/upeu/dao/PeriodoDaoImpl.java</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/pe/edu/upeu/controlador/PeriodoControl.java</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/pe/edu/upeu/dao/UsuarioDaoImpl.java</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/pe/edu/upeu/utils/UtilsConstans.java</file>
+            <file>file:/D:/jhonny/UPeUEventoH/src/java/pe/edu/upeu/modelo/CpAlumnoPeriodo.java</file>
+            <file>file:/D:/jhonny/UPeUEventoH/web/index.jsp</file>
+            <file>file:/D:/jhonny/UPeUEventoH/web/modulos/periodo/mainPeriodo.jsp</file>
+        </group>
+    </open-files>
+</project-private>
